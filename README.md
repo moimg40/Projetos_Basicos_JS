@@ -6,3 +6,6 @@
 
 ## 3 - Semáforo
 ### Exemplo de um semáforo que alterna os sinais.
+
+## 4 - SlideShow
+### Exemplo de um slide show de imagens.
