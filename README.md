@@ -9,3 +9,9 @@
 
 ## 4 - SlideShow
 ### Exemplo de um slide show de imagens.
+
+## 5 - Drum-kit
+### Exemplo de um drum kit.
+
+## 6 - Calculadora
+### Exemplo de uma calculadora aritmética.
