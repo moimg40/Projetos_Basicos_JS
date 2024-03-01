@@ -19,5 +19,8 @@
 ## 7 - Countown
 ### Exemplo de um contador regressivo.
 
-## 7 - Todo-List
+## 8 - Todo-List
 ### Exemplo de uma lista de tarefas.
+
+## 9 - Crud
+### Exemplo de um CRUD.
